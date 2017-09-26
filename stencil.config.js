@@ -1,5 +1,5 @@
 exports.config = {
-  namespace: 'responsive-youtube-embed',
+  namespace: 'responsiveYoutubeEmbed',
   generateDistribution: true,
   generateWWW: false,
   bundles: [
