@@ -1,6 +1,9 @@
 exports.config = {
+  namespace: 'responsive-youtube-embed',
+  generateDistribution: true,
+  generateWWW: false,
   bundles: [
-    { components: ['my-name'] }
+    { components: ['responsive-youtube-embed'] }
   ],
   collections: [
     { name: '@stencil/router' }
